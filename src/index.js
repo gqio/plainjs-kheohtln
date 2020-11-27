@@ -1,5 +1,6 @@
 const template = document.createElement("template");
 template.innerHTML = `
+
   <style>
     * {
       font-size: 200%;
