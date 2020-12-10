@@ -3,7 +3,7 @@ template.innerHTML = `
 
   <style>
     * {
-      font-size: 200%;
+      font-size: 100%;
     }
 
     span {
